@@ -1,0 +1,1 @@
+import{ay as r}from"./index-CEY-M79G.js";import{d as f}from"./chunk-BOOVDPB6-C2BTBqxb.js";function c(d){let{id:e,label:i,"aria-labelledby":l,"aria-label":t,labelElementType:o="label"}=d;e=r(e);let a=r(),b={};i&&(l=l?`${a} ${l}`:a,b={id:a,htmlFor:o==="label"?e:void 0});let $=f({id:e,"aria-label":t,"aria-labelledby":l});return{labelProps:b,fieldProps:$}}export{c as $};
